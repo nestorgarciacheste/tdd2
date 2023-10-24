@@ -1,0 +1,16 @@
+{
+  "name": "empresa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Ejer1.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.10",
+    "jest": "^29.7.0",
+    "mocha": "^10.2.0"
+  }
+}
